@@ -1,3 +1,5 @@
+
+![fondo_portfolio2](https://github.com/user-attachments/assets/4a488fc5-2392-405c-b4a6-dba078490969)
 <h3 align="left">
 <h2 align="left">Hola! Soy Marcelo-Cohen</h2>
 <h3 align="left">Técnico Electrónico, administrador de sistemas operativos, redes y telefonía.</h3>
