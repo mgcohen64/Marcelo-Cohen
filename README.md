@@ -1,5 +1,3 @@
-<hr style="border: 2px solid #FF5733;">
-
 <h3 align="left">
 <h2 align="left">Hola! Soy Marcelo-Cohen</h2>
 <h3 align="left">Técnico Electrónico, administrador de sistemas operativos, redes y telefonía.</h3>
